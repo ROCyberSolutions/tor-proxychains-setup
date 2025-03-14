@@ -162,5 +162,3 @@ For any issues or suggestions, feel free to contact us via:
 - **Website**: [rocybersolutions.com](https://rocybersolutions.com)
 
 ---
-
-This `README.md` provides clear, detailed instructions and a comprehensive understanding of the setup process, usage, and anonymity considerations related to Tor and ProxyChains, based on the original script.
